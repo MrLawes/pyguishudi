@@ -15,7 +15,7 @@ setup(
     author_email='haiou_chen@sina.cn',
     url='https://github.com/MrLawes/pyguishudi',
     license='MIT',
-    find_packages=find_packages(),
+    packages=find_packages(),
     include_package_data=True,
     zip_safe=True,
     install_requires=[
