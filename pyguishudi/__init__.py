@@ -1,1 +1,1 @@
-from pyguishudi import guishudi
+from pyguishudi.guishudi import search

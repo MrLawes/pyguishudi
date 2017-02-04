@@ -26,4 +26,5 @@ setup(
             'pyguishudi=pyguishudi.guishudi:main',
         ],
     },
+    version=VERSION,
 )
