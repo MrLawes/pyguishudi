@@ -1,1 +1,3 @@
-__author__ = 'admin'
+
+def main():
+    print "OKOKO"
